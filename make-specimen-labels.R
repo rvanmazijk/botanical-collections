@@ -22,7 +22,7 @@ specimen_filter <- function(x, specimen_no_) {
 concatenate_ranks <- function(...) {
   # Write taxonomic ranks with ": " between them
   ranks <- c(...)
-  paste(ranks[ranks != " "], collapse = ": ")
+  paste(ranks[!(ranks %in% c(" ", "?"))], collapse = ": ")
 }
 
 get_decimals <- function(x) {
