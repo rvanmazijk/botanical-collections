@@ -1,33 +1,31 @@
-\break
-
-# _{str_trunc(taxo$species, 35, 'right')}_ \hfill {str_replace(taxo$specimen_no, '_', ' ')}
+<!--Species & specimen no. heading-->
+# _{str_trunc(x$species, 35, "right")}_ \hfill {str_replace(x$specimen_no, "_", " ")}
 
 \hrule
 
-{concatenate_ranks(taxo$family, taxo$sub_family, taxo$tribe)} \hfill Collector(s): {taxo$collectors}
+<!--Taxonomy & collection details-->
+{concatenate_ranks(x$family, x$sub_family, x$tribe)} \hfill Collector(s): **{x$collectors}**
 
-Det.: {taxo$det} \hfill Collection no.: {taxo$collection_no} \hfill Date: {taxo$collection_date}
-
-\hrulefill
-
-Country: {loc$country} \hfill Province: {loc$province} \hfill District: {loc$district}
-
-{ifelse(loc$municipality != ' ',
-  glue('Municipality: {loc$municipality}.'),
-  glue(' ')
-)} Locality: {loc$locality}. {loc$locality_details}
-
-Elevation: {georef$elevation_m} m \hfill Aspect: {georef$aspect} \hfill {georef$north_south} {georef$lat_degrees}º{georef$lat_minutes}\'{georef$lon_seconds}\" {georef$east_west} {georef$lon_degrees}º{georef$lon_minutes}\'{georef$lon_seconds}\"
+Det.: {x$det} \hfill Collection no.: {x$collection_no} \hfill Date: {x$collection_date}
 
 \hrulefill
 
-Vegetation: {veg$vegetation} \hfill Last burnt: {veg$time_since_last_burn_years}y ago
+Country: {x$country} \hfill District: {x$district}
 
-Associated spp.: {veg$associated_spp}
+Province: {x$province} \hfill \hfill Municipality: {x$municipality}
 
-Habitat: {hab$habitat_details} \hfill Geology: {hab$geology} \hfill Soil: {hab$soil}
+Locality: {x$locality}. {x$locality_details}
 
-{ifelse(hab$notes != ' ',
-  glue('**Notes**: {hab$notes}'),
-  glue(' ')
-)}
+Elevation: {x$elevation_m} m \hfill Aspect: {x$aspect} \hfill {x$north_south} {x$lat_degrees}º{x$lat_minutes}\'{x$lon_seconds}\" {x$east_west} {x$lon_degrees}º{x$lon_minutes}\'{x$lon_seconds}\"
+
+\hrulefill
+
+Vegetation: {x$vegetation} \hfill Last burnt: {x$time_since_last_burn_years} y ago
+
+Associated spp.: {x$associated_spp}
+
+Habitat: {x$habitat_details} \hfill Geology: {x$geology} \hfill Soil: {x$soil}
+
+**Notes**: {x$notes}
+
+\break
