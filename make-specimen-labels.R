@@ -34,6 +34,12 @@ degrees_to_minutes <- function(x) {
     multiply_by(60)
 }
 minute_to_seconds <- degrees_to_minutes
+floor_if_can <- function(x) {
+  ifelse(x != "?",
+    floor(as.numeric(x)),
+    x
+  )
+}
 format_georef <- function(x) {
   x %>%
     mutate(
@@ -56,10 +62,10 @@ format_georef <- function(x) {
     ) %>%
     # Trim decimals if used in a smaller lon lat unit
     mutate(
-      lat_degrees = floor(as.numeric(lat_degrees)),
-      lat_minutes = floor(as.numeric(lat_minutes)),
-      lon_degrees = floor(as.numeric(lon_degrees)),
-      lon_minutes = floor(as.numeric(lon_minutes))
+      lat_degrees = floor_if_can(lat_degrees),
+      lat_minutes = floor_if_can(lat_minutes),
+      lon_degrees = floor_if_can(lon_degrees),
+      lon_minutes = floor_if_can(lon_minutes)
     ) %>%
     # Trim decimal points on seconds for display purposes
     mutate(
