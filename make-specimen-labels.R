@@ -170,63 +170,16 @@ collate_label <- function(x, specimen_no_) {
     veg = get_veg(., specimen_no_),
     taxo = get_taxo(., specimen_no_)
   )
-  x %$% glue(
-    "\\break
-
-    # _{str_trunc(taxo$species, 35, 'right')}_ \\hfill \\
-    {str_replace(taxo$specimen_no, '_', ' ')}
-
-    \\hrule
-
-    {concatenate_ranks(taxo$family, taxo$sub_family, taxo$tribe)} \\hfill \\
-    Collector(s): {taxo$collectors}
-
-    Det.: {taxo$det} \\hfill \\
-    Collection no.: {taxo$collection_no} \\hfill \\
-    Date: {taxo$collection_date}
-
-    \\hrulefill
-
-    Country: {loc$country} \\hfill \\
-    Province: {loc$province} \\hfill \\
-    District: {loc$district}
-
-    {ifelse(loc$municipality != ' ',
-      glue('Municipality: {loc$municipality}.'),
-      glue(' ')
-    )} \\
-    Locality: {loc$locality}. {loc$locality_details}
-
-    Elevation: {georef$elevation_m} m \\hfill \\
-    Aspect: {georef$aspect} \\hfill \\
-    {georef$north_south} \\
-    {georef$lat_degrees}º{georef$lat_minutes}\'{georef$lon_seconds}\" \\
-    {georef$east_west} \\
-    {georef$lon_degrees}º{georef$lon_minutes}\'{georef$lon_seconds}\"
-
-    \\hrulefill
-
-    Vegetation: {veg$vegetation} \\hfill \\
-    Last burnt: {veg$time_since_last_burn_years}y ago
-
-    Associated spp.: {veg$associated_spp}
-
-    Habitat: {hab$habitat_details} \\hfill \\
-    Geology: {hab$geology} \\hfill \\
-    Soil: {hab$soil}
-
-    {ifelse(hab$notes != ' ',
-      glue('**Notes**: {hab$notes}'),
-      glue(' ')
-    )}
-
-    "
-  )
+  x %$% glue(label_template_)
 }
 
 # .... Testing -----------------------------------------------------------------
 
 collections <- read_csv("botanical-collections_rvm.csv")
+
+label_template <- "label-template.txt" %>%
+  read_lines() %>%
+  paste(collapse = "\n")
 
 get_georef(collections, "RVM_27")
 get_loc(collections, "RVM_27")
@@ -234,8 +187,7 @@ get_hab(collections, "RVM_27")
 get_veg(collections, "RVM_27")
 get_taxo(collections, "RVM_27")
 
-collate_label(collections, "RVM_27")
-
+collate_label(collections, "RVM_27", label_template)
 
 # Write Rmarkdown for all labels -----------------------------------------------
 
