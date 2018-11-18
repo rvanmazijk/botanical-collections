@@ -112,7 +112,3 @@ for (specimen_no_ in collections$specimen_no) {
     make_label(collections, specimen_no_, label_template)
   )
 }
-
-# Render labels to PDF document ------------------------------------------------
-
-render("labels.Rmd")
