@@ -6,55 +6,60 @@ output: pdf_document
 \pagenumbering{gobble}
 \raggedright
 \footnotesize
-\break
-
+<!--Species & specimen no. heading-->
 # _Tetraria triangularis_ \hfill RVM 1
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, Verboom
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, Verboom**
 
 Det.: Verboom \hfill Collection no.: 1 \hfill Date: 2018-04-07
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Groothoek Peak. Base of N slope of peak
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1795 m \hfill Aspect: N \hfill S 33º23'48.5" E 19º36'48.5"
+Locality: Groothoek Peak. Base of N slope of peak
+
+Elevation: 1795 m \hfill Aspect: N \hfill S 33º23\'48.5\" E 19º36\'48.5\"
 
 \hrulefill
 
-Vegetation: Low restioid fynbos \hfill Last burnt: 3y ago
+Vegetation: Low restioid fynbos \hfill Last burnt: 3 y ago
 
 Associated spp.: Restionaceae
 
 Habitat: Levelish area, rocky \hfill Geology: sandstone \hfill Soil: quartzitic sands
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Schoenus sp. nov._ \hfill RVM 2
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, Verboom
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, Verboom**
 
-Det.: T.L.Elliott & Muasya \hfill Collection no.: 2 \hfill Date: 2018-04-08
-
-\hrulefill
-
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
-
-Municipality: Breede Valley. Locality: Groothoek Peak.  
-
-Elevation: 1734 m \hfill Aspect: N \hfill S 33º23'33" E 19º36'33"
+Det.: T.L.Elliott, Muasya \hfill Collection no.: 2 \hfill Date: 2018-04-08
 
 \hrulefill
 
-Vegetation: Restioid fynbos \hfill Last burnt: 3y ago
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Groothoek Peak. 
+
+Elevation: 1734 m \hfill Aspect: N \hfill S 33º23\'33\" E 19º36\'33\"
+
+\hrulefill
+
+Vegetation: Restioid fynbos \hfill Last burnt: 3 y ago
 
 Associated spp.: Restionaceae
 
@@ -63,894 +68,990 @@ Habitat: Rocky, large boulders \hfill Geology: sandstone \hfill Soil: quartzitic
 **Notes**: Possible type material in voucher!
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Ficinia sp._ \hfill RVM 3
 
 \hrule
 
-Cyperaceae: Scirpeae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Scirpeae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 3 \hfill Date: 2018-04-09
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Groothoek Peak.  
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1827 m \hfill Aspect: N \hfill S 33º23'55.5" E 19º36'55.5"
+Locality: Groothoek Peak. 
+
+Elevation: 1827 m \hfill Aspect: N \hfill S 33º23\'55.5\" E 19º36\'55.5\"
 
 \hrulefill
 
-Vegetation: Sub-alpine restioid fynbos \hfill Last burnt: 3y ago
+Vegetation: Sub-alpine restioid fynbos \hfill Last burnt: 3 y ago
 
 Associated spp.: Restionaceae
 
 Habitat: Levelish area, shale pebbles and sandstone pebbles \hfill Geology: shale \hfill Soil: shale soils
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria ustulata_ \hfill RVM 4
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 4 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Observation Peak. On peak
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1287 m \hfill Aspect:   \hfill S 33º37'7.75" E 19º9'7.75"
+Locality: Observation Peak. On peak
+
+Elevation: 1287 m \hfill Aspect: ? \hfill S 33º37\'7.75\" E 19º9\'7.75\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 to 4y ago
+Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 to 4 y ago
 
 Associated spp.: Proteaceae, Restionaceae
 
 Habitat: Sandstone cape on shale band \hfill Geology: sandstone \hfill Soil: sand, clay
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria flexuosa_ \hfill RVM 5
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 5 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Observation Peak. On peak
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1287 m \hfill Aspect:   \hfill S 33º37'7.75" E 19º9'7.75"
+Locality: Observation Peak. On peak
+
+Elevation: 1287 m \hfill Aspect: ? \hfill S 33º37\'7.75\" E 19º9\'7.75\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 to 4y ago
+Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 to 4 y ago
 
 Associated spp.: Proteaceae, Restionaceae
 
 Habitat: Sandstone cape on shale band \hfill Geology: sandstone \hfill Soil: sand, clay
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Schoenus crassiculmis_ \hfill RVM 6
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: T.L.Elliott \hfill Collection no.: 6 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Observation Peak. Near peak, near sandstone outcropping below shale band
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1258 m \hfill Aspect: SW \hfill S 33º37'5.28" E 19º9'5.28"
+Locality: Observation Peak. Near peak, near sandstone outcropping below shale band
+
+Elevation: 1258 m \hfill Aspect: SW \hfill S 33º37\'5.28\" E 19º9\'5.28\"
 
 \hrulefill
 
-Vegetation: Restioid fynbos \hfill Last burnt: 3 to 4y ago
+Vegetation: Restioid fynbos \hfill Last burnt: 3 to 4 y ago
 
 Associated spp.: Restionaceae
 
 Habitat: Shale band and sandstone outcropping band \hfill Geology: shale, sandstone \hfill Soil: shale soils
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria involucrata_ \hfill RVM 7
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Muasya \hfill Collection no.: 7 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Observation Peak. On lower slopes
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1215 m \hfill Aspect: SW \hfill S 33º37'4.08" E 19º9'4.08"
+Locality: Observation Peak. On lower slopes
+
+Elevation: 1215 m \hfill Aspect: SW \hfill S 33º37\'4.08\" E 19º9\'4.08\"
 
 \hrulefill
 
-Vegetation: Proteogramminoid fynbos \hfill Last burnt: 3 to 4y ago
+Vegetation: Proteogramminoid fynbos \hfill Last burnt: 3 to 4 y ago
 
 Associated spp.: Proteaceae, Poaceae
 
-Habitat:   \hfill Geology: shale \hfill Soil: clay
+Habitat:  \hfill Geology: shale \hfill Soil: clay
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Schoenus lucidus_ \hfill RVM 8
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott, Muasya
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott, Muasya**
 
 Det.: T.L.Elliott \hfill Collection no.: 8 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Observation Peak. Plain on other side of and above Bobejaan's Waterfall
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1055 m \hfill Aspect:   \hfill S 33º37'44.48" E 19º8'44.48"
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1055 m \hfill Aspect: ? \hfill S 33º37\'44.48\" E 19º8\'44.48\"
 
 \hrulefill
 
-Vegetation:   \hfill Last burnt: 2 to 4y ago
+Vegetation:  \hfill Last burnt: 2 to 4 y ago
 
-Associated spp.:  
+Associated spp.: ?
 
-Habitat:   \hfill Geology: bog \hfill Soil: organic
+Habitat:  \hfill Geology: bog \hfill Soil: organic
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria scrag-cap. (a.k.a. Arch..._ \hfill RVM 9
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, Muasya
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, Muasya**
 
 Det.: Verboom \hfill Collection no.: 9 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 1025 m \hfill Aspect: N \hfill S 33º37'34.33" E 19º8'34.33"
+Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes
+
+Elevation: 1025 m \hfill Aspect: N \hfill S 33º37\'34.33\" E 19º8\'34.33\"
 
 \hrulefill
 
-Vegetation: Restioid fynbos \hfill Last burnt: 3 to 4y ago
+Vegetation: Restioid fynbos \hfill Last burnt: 3 to 4 y ago
 
 Associated spp.: Restionaceae
 
 Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: quartzitic sands
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Schoenus adnatus_ \hfill RVM 10
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott, Muasya
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott, Muasya**
 
 Det.: T.L.Elliott \hfill Collection no.: 10 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 1.25 km before waterfall itself, near an active stream
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 803 m \hfill Aspect:   \hfill S 33º37'57.07" E 19º7'57.07"
+Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 1.25 km before waterfall itself, near an active stream
+
+Elevation: 803 m \hfill Aspect: ? \hfill S 33º37\'57.07\" E 19º7\'57.07\"
 
 \hrulefill
 
-Vegetation: Wet fynbos \hfill Last burnt:  y ago
+Vegetation: Wet fynbos \hfill Last burnt: ? y ago
 
-Associated spp.:  
+Associated spp.: ?
 
 Habitat: By active stream, wet \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Schoenus dregeanus_ \hfill RVM 11
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott, Muasya
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott, Muasya**
 
 Det.: T.L.Elliott \hfill Collection no.: 11 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 2.5 km before waterfall itself
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 769 m \hfill Aspect:   \hfill S 33º37'43.08" E 19º6'43.08"
+Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 2.5 km before waterfall itself
+
+Elevation: 769 m \hfill Aspect: ? \hfill S 33º37\'43.08\" E 19º6\'43.08\"
 
 \hrulefill
 
-Vegetation: Wet fynbos, S. dregeanus dominated stand \hfill Last burnt:  y ago
+Vegetation: Wet fynbos, S. dregeanus dominated stand \hfill Last burnt: ? y ago
 
 Associated spp.: Schoenus dregeanus (Cyperaceae: Schoeneae)
 
-Habitat:   \hfill Geology:   \hfill Soil: organic
+Habitat:  \hfill Geology:  \hfill Soil: organic
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria flexuosa_ \hfill RVM 12
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott, Muasya
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott, Muasya**
 
 Det.: Van Mazijk \hfill Collection no.: 12 \hfill Date: 2018-05-01
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Cape Winelands
+Country: South Africa \hfill District: Cape Winelands
 
-Municipality: Breede Valley. Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 2.5 km before waterfall itself
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
-Elevation: 769 m \hfill Aspect:   \hfill S 33º37'43.08" E 19º6'43.08"
+Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 2.5 km before waterfall itself
+
+Elevation: 769 m \hfill Aspect: ? \hfill S 33º37\'43.08\" E 19º6\'43.08\"
 
 \hrulefill
 
-Vegetation: Wet fynbos, S. dregeanus dominated stand \hfill Last burnt:  y ago
+Vegetation: Wet fynbos, S. dregeanus dominated stand \hfill Last burnt: ? y ago
 
 Associated spp.: Schoenus dregeanus (Cyperaceae: Schoeneae)
 
-Habitat:   \hfill Geology:   \hfill Soil: organic
+Habitat:  \hfill Geology:  \hfill Soil: organic
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria eximia_ \hfill RVM 13
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 13 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 595 m \hfill Aspect: SE \hfill S 33º19'17.5" E 19º18'17.5"
+Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+
+Elevation: 595 m \hfill Aspect: SE \hfill S 33º19\'17.5\" E 19º18\'17.5\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Proteaceae, Restionaceae, Ericaceae
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria flexuosa_ \hfill RVM 14
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 14 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 595 m \hfill Aspect: SE \hfill S 33º19'17.5" E 19º18'17.5"
+Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+
+Elevation: 595 m \hfill Aspect: SE \hfill S 33º19\'17.5\" E 19º18\'17.5\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Proteaceae, Restionaceae, Ericaceae
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria flexuosa_ \hfill RVM 15
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 15 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 595 m \hfill Aspect: SE \hfill S 33º19'17.5" E 19º18'17.5"
+Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+
+Elevation: 595 m \hfill Aspect: SE \hfill S 33º19\'17.5\" E 19º18\'17.5\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Proteaceae, Restionaceae, Ericaceae
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria fasciata_ \hfill RVM 16
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 16 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 595 m \hfill Aspect: SE \hfill S 33º19'17.5" E 19º18'17.5"
+Locality: Babylon's Tower. Steep slope, NE of Babylon's Tower Cottage
+
+Elevation: 595 m \hfill Aspect: SE \hfill S 33º19\'17.5\" E 19º18\'17.5\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Proteaceae, Restionaceae, Ericaceae
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Ficinia monticola_ \hfill RVM 17
 
 \hrule
 
-Cyperaceae: Scirpeae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Scirpeae \hfill Collector(s): **Van Mazijk**
 
 Det.: Muasya \hfill Collection no.: 17 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 595 m \hfill Aspect: SE \hfill S 33º19'17.5" E 19º18'17.5"
+Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+
+Elevation: 595 m \hfill Aspect: SE \hfill S 33º19\'17.5\" E 19º18\'17.5\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria pygmaea_ \hfill RVM 18
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk, Verboom \hfill Collection no.: 18 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 504 m \hfill Aspect: SE \hfill S 33º19'27.56" E 19º18'27.56"
+Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+
+Elevation: 504 m \hfill Aspect: SE \hfill S 33º19\'27.56\" E 19º18\'27.56\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria pleosticha_ \hfill RVM 19
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Verboom \hfill Collection no.: 19 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 486 m \hfill Aspect: SE \hfill S 33º19'30.68" E 19º18'30.68"
+Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+
+Elevation: 486 m \hfill Aspect: SE \hfill S 33º19\'30.68\" E 19º18\'30.68\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Chrysitrix sp._ \hfill RVM 20
 
 \hrule
 
-Cyperaceae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: ? \hfill Collector(s): **Van Mazijk**
 
 Det.: Muasya \hfill Collection no.: 20 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 504 m \hfill Aspect: SE \hfill S 33º19'27.56" E 19º18'27.56"
+Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+
+Elevation: 504 m \hfill Aspect: SE \hfill S 33º19\'27.56\" E 19º18\'27.56\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria reducta_ \hfill RVM 21
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Muasya
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Muasya**
 
 Det.: Verboom \hfill Collection no.: 21 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation:   m \hfill Aspect: SE \hfill S  º ' " E  º ' "
+Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+
+Elevation: ? m \hfill Aspect: SE \hfill S º\'?\" E º\'?\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria pleosticha_ \hfill RVM 22
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Verboom \hfill Collection no.: 22 \hfill Date: 2018-05-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Theewaterskloof. Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
-Elevation: 486 m \hfill Aspect: SE \hfill S 33º19'30.68" E 19º18'30.68"
+Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
+
+Elevation: 486 m \hfill Aspect: SE \hfill S 33º19\'30.68\" E 19º18\'30.68\"
 
 \hrulefill
 
-Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt:  y ago
+Vegetation: Proteorestioid fynbos + ericas \hfill Last burnt: ? y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Small rocks \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria aff. flexuosa_ \hfill RVM 23
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott**
 
 Det.: Van Mazijk \hfill Collection no.: 23 \hfill Date: 2018-05-09
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: City of Cape Town
+Country: South Africa \hfill District: City of Cape Town
 
-  Locality: Maclear's Beacon, Table Mountain NP. Along trail between Skeleton Gorge and Maclear's Beacon, ca. 400 metres before beacon, ca. 30 metres past wooden bridge towards Maclear's Beacon, ca. 100m from river, many standing puddles
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
-Elevation: 1021 m \hfill Aspect:   \hfill S 33º58'27.2" E 19º25'27.2"
+Locality: Maclear's Beacon, Table Mountain NP. Along trail between Skeleton Gorge and Maclear's Beacon, ca. 400 metres before beacon, ca. 30 metres past wooden bridge towards Maclear's Beacon, ca. 100m from river, many standing puddles
+
+Elevation: 1021 m \hfill Aspect: ? \hfill S 33º58\'27.2\" E 19º25\'27.2\"
 
 \hrulefill
 
-Vegetation: Open proteorestioid fynbos \hfill Last burnt:  y ago
+Vegetation: Open proteorestioid fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Berzelia spp. (Bruniaceae)
 
 Habitat: Gently sloping, damp \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria flexuosa_ \hfill RVM 24
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 24 \hfill Date: 2018-05-09
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: City of Cape Town
+Country: South Africa \hfill District: City of Cape Town
 
-  Locality: Hely-Hutchinson Reservoir, Table Mountain NP. On embankment on side of path furthest from reservoir
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
-Elevation: 751 m \hfill Aspect:   \hfill S 33º58'40.51" E 18º24'40.51"
+Locality: Hely-Hutchinson Reservoir, Table Mountain NP. On embankment on side of path furthest from reservoir
+
+Elevation: 751 m \hfill Aspect: ? \hfill S 33º58\'40.51\" E 18º24\'40.51\"
 
 \hrulefill
 
-Vegetation: Open, dry restioid fynbos \hfill Last burnt:  y ago
+Vegetation: Open, dry restioid fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Restionaceae, Watsonia spp. (Iridaceae)
 
 Habitat: Gently sloping, well drained, large rocks \hfill Geology: sandstone \hfill Soil: sandy
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria thermalis_ \hfill RVM 25
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 25 \hfill Date: 2018-05-09
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: City of Cape Town
+Country: South Africa \hfill District: City of Cape Town
 
-  Locality: Hely-Hutchinson Reservoir, Table Mountain NP. On embankment on side of path furthest from reservoir
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
-Elevation: 751 m \hfill Aspect:   \hfill S 33º58'40.51" E 18º24'40.51"
+Locality: Hely-Hutchinson Reservoir, Table Mountain NP. On embankment on side of path furthest from reservoir
+
+Elevation: 751 m \hfill Aspect: ? \hfill S 33º58\'40.51\" E 18º24\'40.51\"
 
 \hrulefill
 
-Vegetation: Open, dry restioid fynbos \hfill Last burnt:  y ago
+Vegetation: Open, dry restioid fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Restionaceae, Watsonia spp. (Iridaceae)
 
 Habitat: Gently sloping, well drained, large rocks \hfill Geology: sandstone \hfill Soil: sandy
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Schoenus exilis_ \hfill RVM 26
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Muasya(?) \hfill Collection no.: 26 \hfill Date: 2018-07-05
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Overstrand. Locality: Houwhoek area, Kogelberg NR. S of Houwhoek Hotel, i.e. if driving Cape Town to Botrivier it is on the right of the N2
+Province: Western Cape \hfill \hfill Municipality: Overstrand
 
-Elevation: 326 m \hfill Aspect:   \hfill S 34º12'11.5" E 19º9'11.5"
+Locality: Houwhoek area, Kogelberg NR. S of Houwhoek Hotel, i.e. if driving Cape Town to Botrivier it is on the right of the N2
+
+Elevation: 326 m \hfill Aspect: ? \hfill S 34º12\'11.5\" E 19º9\'11.5\"
 
 \hrulefill
 
-Vegetation: Proteogramminoid mountain fynbos \hfill Last burnt:  y ago
+Vegetation: Proteogramminoid mountain fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Proteaceae, Poaceae
 
-Habitat: Mature stand \hfill Geology:   \hfill Soil:  
+Habitat: Mature stand \hfill Geology: ? \hfill Soil: ?
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria triangularis_ \hfill RVM 27
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 27 \hfill Date: 2018-09-14
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: City of Cape Town
+Country: South Africa \hfill District: City of Cape Town
 
-  Locality: Cape Point, Table Mountain NP. Flat plains on N-most side of road
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
-Elevation:   m \hfill Aspect:   \hfill S 34º17'30.928" E 18º26'30.928"
+Locality: Cape Point, Table Mountain NP. Flat plains on N-most side of road
+
+Elevation: ? m \hfill Aspect: ? \hfill S 34º17\'30.928\" E 18º26\'30.928\"
 
 \hrulefill
 
-Vegetation: Restiogramminoid fynbos \hfill Last burnt:  y ago
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Restionaceae, Poaceae
 
-Habitat: Much less recently burnt than S-side of road \hfill Geology:   \hfill Soil: sandy
+Habitat: Much less recently burnt than S-side of road \hfill Geology: ? \hfill Soil: sandy
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria triangularis_ \hfill RVM 28
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 28 \hfill Date: 2018-09-14
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: City of Cape Town
+Country: South Africa \hfill District: City of Cape Town
 
-  Locality: Cape Point, Table Mountain NP. Flat plains on N-most side of road
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
-Elevation:   m \hfill Aspect:   \hfill S 34º17'30.928" E 18º26'30.928"
+Locality: Cape Point, Table Mountain NP. Flat plains on N-most side of road
+
+Elevation: ? m \hfill Aspect: ? \hfill S 34º17\'30.928\" E 18º26\'30.928\"
 
 \hrulefill
 
-Vegetation: Restiogramminoid fynbos \hfill Last burnt:  y ago
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Restionaceae, Poaceae
 
-Habitat: Much less recently burnt than S-side of road \hfill Geology:   \hfill Soil: sandy
+Habitat: Much less recently burnt than S-side of road \hfill Geology: ? \hfill Soil: sandy
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria ustulata_ \hfill RVM 29
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 29 \hfill Date: 2018-09-14
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: City of Cape Town
+Country: South Africa \hfill District: City of Cape Town
 
-  Locality: Cape Point, Table Mountain NP. Flat plains on N-most side of road
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
-Elevation:   m \hfill Aspect:   \hfill S 34º17'30.928" E 18º26'30.928"
+Locality: Cape Point, Table Mountain NP. Flat plains on N-most side of road
+
+Elevation: ? m \hfill Aspect: ? \hfill S 34º17\'30.928\" E 18º26\'30.928\"
 
 \hrulefill
 
-Vegetation: Restiogramminoid fynbos \hfill Last burnt:  y ago
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
 
 Associated spp.: Restionaceae, Poaceae
 
-Habitat: Much less recently burnt than S-side of road \hfill Geology:   \hfill Soil: sandy
+Habitat: Much less recently burnt than S-side of road \hfill Geology: ? \hfill Soil: sandy
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria ustulata_ \hfill RVM 30
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott**
 
 Det.: Van Mazijk \hfill Collection no.: 30 \hfill Date: 2018-09-17
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Swellendam. Locality: Killarney Trout Farm/Esperanza, Marloth NR. Go along path near Goedgeloof Hut, then go into the veld until reaching gentle slopes of foothill above small creek
+Province: Western Cape \hfill \hfill Municipality: Swellendam
 
-Elevation: 772.5 m \hfill Aspect: N \hfill S 33º56'15.317" E 20º27'15.317"
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Go along path near Goedgeloof Hut, then go into the veld until reaching gentle slopes of foothill above small creek
+
+Elevation: 772.5 m \hfill Aspect: N \hfill S 33º56\'15.317\" E 20º27\'15.317\"
 
 \hrulefill
 
-Vegetation: Restiogramminoid fynbos \hfill Last burnt: 3y ago
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: 3 y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Creek nearby, large quartzitic sandstone boulders & pebbles \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria pleosticha aff._ \hfill RVM 31
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott**
 
 Det.: Van Mazijk \hfill Collection no.: 31 \hfill Date: 2018-09-17
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Swellendam. Locality: Killarney Trout Farm/Esperanza, Marloth NR. Go along path near Goedgeloof Hut, then go into the veld until reaching gentle slopes of foothill above small creek, taken from nearer to stream
+Province: Western Cape \hfill \hfill Municipality: Swellendam
 
-Elevation: 772.5 m \hfill Aspect: N \hfill S 33º56'15.317" E 20º27'15.317"
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Go along path near Goedgeloof Hut, then go into the veld until reaching gentle slopes of foothill above small creek, taken from nearer to stream
+
+Elevation: 772.5 m \hfill Aspect: N \hfill S 33º56\'15.317\" E 20º27\'15.317\"
 
 \hrulefill
 
-Vegetation: Restiogramminoid fynbos \hfill Last burnt: 3y ago
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: 3 y ago
 
 Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Creek very nearby, large quartzitic sandstone boulders & pebbles \hfill Geology: sandstone \hfill Soil: sandy loam
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria flexuosa (?)_ \hfill RVM 32
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 32 \hfill Date: 2018-09-17
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Swellendam. Locality: Killarney Trout Farm/Esperanza, Marloth NR. Near Goedgeloof Hut
+Province: Western Cape \hfill \hfill Municipality: Swellendam
 
-Elevation:   m \hfill Aspect: N \hfill S  º ' " E  º ' "
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Near Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
 
 \hrulefill
 
-Vegetation:   \hfill Last burnt: 3y ago
+Vegetation: ? \hfill Last burnt: 3 y ago
 
-Associated spp.:  
+Associated spp.: ?
 
-Habitat:   \hfill Geology: sandstone \hfill Soil:  
+Habitat:  \hfill Geology: sandstone \hfill Soil: ?
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria ustulata_ \hfill RVM 33
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
 
 Det.: Van Mazijk \hfill Collection no.: 33 \hfill Date: 2018-09-17
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Swellendam. Locality: Killarney Trout Farm/Esperanza, Marloth NR. Near Goedgeloof Hut
+Province: Western Cape \hfill \hfill Municipality: Swellendam
 
-Elevation:   m \hfill Aspect: N \hfill S  º ' " E  º ' "
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Near Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
 
 \hrulefill
 
-Vegetation:   \hfill Last burnt: 3y ago
+Vegetation: ? \hfill Last burnt: 3 y ago
 
-Associated spp.:  
+Associated spp.: ?
 
-Habitat:   \hfill Geology: sandstone \hfill Soil:  
+Habitat:  \hfill Geology: sandstone \hfill Soil: ?
 
- 
+**Notes**: 
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Cyathocoma sp._ \hfill RVM 34
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott**
 
 Det.: T.L.Elliott \hfill Collection no.: 34 \hfill Date: 2018-09-17
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Swellendam. Locality: Killarney Trout Farm/Esperanza, Marloth NR. $\leq$ ca. 1.5km along trail from Goedgeloof Hut
+Province: Western Cape \hfill \hfill Municipality: Swellendam
 
-Elevation: 700 m \hfill Aspect: N \hfill S 33º56'39.226" E 20º26'39.226"
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. $leq$ ca. 1.5km along trail from Goedgeloof Hut
+
+Elevation: 700 m \hfill Aspect: N \hfill S 33º56\'39.226\" E 20º26\'39.226\"
 
 \hrulefill
 
-Vegetation: Riparian fynbos \hfill Last burnt: 3y ago
+Vegetation: Riparian fynbos \hfill Last burnt: 3 y ago
 
 Associated spp.: Poaceae, Restionaceae, Schoeneae (Cyperaceae), Ericoids, Leucodendron spp. (Proteaceae), other large woody spp.
 
@@ -959,30 +1060,1770 @@ Habitat: Near/in river bed that crosses path, in small valley, between two rocks
 **Notes**: Unlikely to have burnt directly because in valley near river
 
 \break
-
+<!--Species & specimen no. heading-->
 # _Tetraria burmannii aff._ \hfill RVM 35
 
 \hrule
 
-Cyperaceae: Schoeneae \hfill Collector(s): Van Mazijk, T.L.Elliott
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott**
 
 Det.: Van Mazijk \hfill Collection no.: 35 \hfill Date: 2018-09-17
 
 \hrulefill
 
-Country: South Africa \hfill Province: Western Cape \hfill District: Overberg
+Country: South Africa \hfill District: Overberg
 
-Municipality: Swellendam. Locality: Killarney Trout Farm/Esperanza, Marloth NR. $\leq$ ca. 500m along path from Goedgeloof Hut
+Province: Western Cape \hfill \hfill Municipality: Swellendam
 
-Elevation:   m \hfill Aspect: N \hfill S  º ' " E  º ' "
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. $leq$ ca. 500m along path from Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
 
 \hrulefill
 
-Vegetation:   \hfill Last burnt: 3y ago
+Vegetation: ? \hfill Last burnt: 3 y ago
 
-Associated spp.:  
+Associated spp.: ?
 
-Habitat:   \hfill Geology: sandstone \hfill Soil:  
+Habitat: ? \hfill Geology: sandstone \hfill Soil: ?
 
- 
+**Notes**: 
 
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria fasciata aff._ \hfill RVM 36
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, T.L.Elliott**
+
+Det.: Van Mazijk \hfill Collection no.: 36 \hfill Date: 2018-09-17
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Swellendam
+
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. $geq$ ca. 600m along path from Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: 3 y ago
+
+Associated spp.: ?
+
+Habitat: ? \hfill Geology: sandstone \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria burmannii aff._ \hfill RVM 37
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 37 \hfill Date: 2018-09-17
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Swellendam
+
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Between ca. 500m and $geq$ ca. 700m along path from Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 y ago
+
+Associated spp.: Proteaceae, Restionaceae
+
+Habitat: ? \hfill Geology: sandstone \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria fasciata aff._ \hfill RVM 38
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 38 \hfill Date: 2018-09-17
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Swellendam
+
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Between ca. 500m and $geq$ ca. 700m along path from Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 y ago
+
+Associated spp.: Proteaceae, Restionaceae
+
+Habitat: ? \hfill Geology: sandstone \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria involucrata_ \hfill RVM 39
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 39 \hfill Date: 2018-09-17
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Swellendam
+
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Path/gravel road by the N-most of the two dams near Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Proteorestioid fynbos, partially invaded by Eucalypts \hfill Last burnt: 3 y ago
+
+Associated spp.: Proteaceae, Restionaceae, Eucalypteae (Myrtaceae)
+
+Habitat: ? \hfill Geology: sandstone \hfill Soil: ?
+
+**Notes**: Unlikely to have burnt directly because very near road
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria burmannii aff._ \hfill RVM 40
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 40 \hfill Date: 2018-09-17
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Swellendam
+
+Locality: Killarney Trout Farm/Esperanza, Marloth NR. Between ca. 500m and $geq$ ca. 700m along path from Goedgeloof Hut
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Proteorestioid fynbos \hfill Last burnt: 3 y ago
+
+Associated spp.: Proteaceae, Restionaceae
+
+Habitat: ? \hfill Geology: sandstone \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus sp._ \hfill RVM 41
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 41 \hfill Date: 2018-11-09
+
+\hrulefill
+
+Country: South Africa \hfill District: City of Cape Town
+
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
+
+Locality: Buffelstalberg, Rooiels. N of recent burn (i.e. not in burnt area), along path
+
+Elevation: ? m \hfill Aspect: S \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: unburnt y ago
+
+Associated spp.: ?
+
+Habitat: ? \hfill Geology: ? \hfill Soil: sandy, some loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus sp._ \hfill RVM 42
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 42 \hfill Date: 2018-11-09
+
+\hrulefill
+
+Country: South Africa \hfill District: City of Cape Town
+
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
+
+Locality: Buffelstalberg, Rooiels. N of recent burn (i.e. not in burnt area), along path
+
+Elevation: ? m \hfill Aspect: S \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: unburnt y ago
+
+Associated spp.: ?
+
+Habitat: ? \hfill Geology: ? \hfill Soil: sandy, some loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus quadrangularis_ \hfill RVM 43
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 43 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Fernkloof NR, Hermanus. Along jeep track after end of uphill portion of Adder's Ladder trail, near seep/bog
+
+Elevation: 318 m \hfill Aspect: ? \hfill S 34º23\'40.44\" E 19º16\'40.44\"
+
+\hrulefill
+
+Vegetation: Boggy fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Psoralea aphylla aff. (Fabaceae), ferns
+
+Habitat: Near seep/bog \hfill Geology: ? \hfill Soil: sandy bog
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus quadrangularis_ \hfill RVM 44
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 44 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Fernkloof NR, Hermanus. Along jeep track after end of uphill portion of Adder's Ladder trail, near seep/bog
+
+Elevation: 318 m \hfill Aspect: ? \hfill S 34º23\'40.44\" E 19º16\'40.44\"
+
+\hrulefill
+
+Vegetation: Boggy fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Psoralea aphylla aff. (Fabaceae), ferns
+
+Habitat: Near seep/bog \hfill Geology: ? \hfill Soil: sandy bog
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus quadrangularis_ \hfill RVM 45
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 45 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Fernkloof NR, Hermanus. Along jeep track after end of uphill portion of Adder's Ladder trail, near seep/bog
+
+Elevation: 318 m \hfill Aspect: ? \hfill S 34º23\'40.44\" E 19º16\'40.44\"
+
+\hrulefill
+
+Vegetation: Boggy fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Psoralea aphylla aff. (Fabaceae), ferns
+
+Habitat: Near seep/bog \hfill Geology: ? \hfill Soil: sandy bog
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha aff._ \hfill RVM 46
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 46 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Dry gramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Poaceae, Schoeneae, Restionaceae
+
+Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha aff._ \hfill RVM 47
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 47 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Dry gramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Poaceae, Schoeneae, Restionaceae
+
+Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pygmaea or Tetraria pyg..._ \hfill RVM 48
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk, Verboom \hfill Collection no.: 48 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Dry gramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Poaceae, Schoeneae, Restionaceae
+
+Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha aff._ \hfill RVM 49
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 49 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Dry gramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Poaceae, Schoeneae, Restionaceae
+
+Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha aff._ \hfill RVM 50
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 50 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Dry gramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Poaceae, Schoeneae, Restionaceae
+
+Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha aff._ \hfill RVM 51
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 51 \hfill Date: 2018-11-10
+
+\hrulefill
+
+Country: South Africa \hfill District: Overberg
+
+Province: Western Cape \hfill \hfill Municipality: Overstrand
+
+Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Dry gramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Poaceae, Schoeneae, Restionaceae
+
+Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus compactus aff._ \hfill RVM 52
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, Verboom**
+
+Det.: Van Mazijk, Verboom \hfill Collection no.: 52 \hfill Date: 2018-10-26
+
+\hrulefill
+
+Country: South Africa \hfill District: City of Cape Town/Overberg
+
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town/Theewaterskloof
+
+Locality: Peak NE of Sir Lowry's Pass, with obvious large telephone masts. Along tarred road up to telephone masts' station
+
+Elevation: 945 m \hfill Aspect: ? \hfill S 34º5\'55.5\" E 18º57\'55.5\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: ?
+
+Habitat: ? \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: TODO: renumber 38+ --> 41+
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus compar_ \hfill RVM 53
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 53 \hfill Date: 2018-11-09
+
+\hrulefill
+
+Country: South Africa \hfill District: City of Cape Town
+
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
+
+Locality: Buffelstalberg, Rooiels. S of recent burn (i.e. in burnt area), near path, on small hill E of mountain
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Very bare post-burn \hfill Last burnt: very recent y ago
+
+Associated spp.: Few because post-burn
+
+Habitat: ? \hfill Geology: ? \hfill Soil: sandy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria spiralis_ \hfill RVM 54
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 54 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Very steep slope downwards, to N of large red & white mast on hill
+
+Elevation: 1579 m \hfill Aspect: NNE \hfill S 33º58\'30.204\" E 19º30\'30.204\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Poaceae, Erharta spp. & Pentameris spp. (Poaceae), Tetraria spp. (Cyperaceae: Schoeneae), Stoebe spp. & Seryphium spp. & Metalasia spp. (Asteraceae), Cliffortia spp.
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria spiralis_ \hfill RVM 55
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 55 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Very steep slope downwards, to N of large red & white mast on hill
+
+Elevation: 1579 m \hfill Aspect: NNE \hfill S 33º58\'30.204\" E 19º30\'30.204\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Poaceae, Erharta spp. & Pentameris spp. (Poaceae), Tetraria spp. (Cyperaceae: Schoeneae), Stoebe spp. & Seryphium spp. & Metalasia spp. (Asteraceae), Cliffortia spp.
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria spiralis_ \hfill RVM 56
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 56 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Very steep slope downwards, to N of large red & white mast on hill
+
+Elevation: 1579 m \hfill Aspect: NNE \hfill S 33º58\'30.204\" E 19º30\'30.204\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Poaceae, Erharta spp. & Pentameris spp. (Poaceae), Tetraria spp. (Cyperaceae: Schoeneae), Stoebe spp. & Seryphium spp. & Metalasia spp. (Asteraceae), Cliffortia spp.
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria involucrata_ \hfill RVM 57
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 57 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Very steep slope downwards, to N of large red & white mast on hill
+
+Elevation: 1579 m \hfill Aspect: NNE \hfill S 33º58\'30.204\" E 19º30\'30.204\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Poaceae, Erharta spp. & Pentameris spp. (Poaceae), Tetraria spp. (Cyperaceae: Schoeneae), Stoebe spp. & Seryphium spp. & Metalasia spp. (Asteraceae), Cliffortia spp.
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus sp. Nov. T.L.Elliott_ \hfill RVM 58
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 58 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Moderate slope downwards, to N of large red & white mast on hill, near path
+
+Elevation: 1579 m \hfill Aspect: NNE \hfill S 33º58\'30.204\" E 19º30\'30.204\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Poaceae, Erharta spp. & Pentameris spp. (Poaceae), Tetraria spp. (Cyperaceae: Schoeneae), Stoebe spp. & Seryphium spp. & Metalasia spp. (Asteraceae), Cliffortia spp.
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus sp. Nov. T.L.Elliott_ \hfill RVM 59
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 59 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Moderate slope downwards, to N of large red & white mast on hill, near path
+
+Elevation: 1579 m \hfill Aspect: NNE \hfill S 33º58\'30.204\" E 19º30\'30.204\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Poaceae, Erharta spp. & Pentameris spp. (Poaceae), Tetraria spp. (Cyperaceae: Schoeneae), Stoebe spp. & Seryphium spp. & Metalasia spp. (Asteraceae), Cliffortia spp.
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Chrysitrix sp._ \hfill RVM 60
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: ? \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 60 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Chrysitrix sp._ \hfill RVM 61
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: ? \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 61 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Chrysitrix sp._ \hfill RVM 62
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: ? \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 62 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria maculata_ \hfill RVM 63
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 63 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria triangularis_ \hfill RVM 64
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 64 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, really in the stream channel of a boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria triangularis_ \hfill RVM 65
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 65 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, really in the stream channel of a boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus adnatus_ \hfill RVM 66
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 66 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, really in the stream channel of a boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha or flexuosa_ \hfill RVM 67
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk, Verboom \hfill Collection no.: 67 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. 
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha or flexuosa_ \hfill RVM 68
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk, Verboom \hfill Collection no.: 68 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. 
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria pleosticha or flexuosa_ \hfill RVM 69
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk, Verboom \hfill Collection no.: 69 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. 
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus sp._ \hfill RVM 70
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 70 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. 
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria involucrata_ \hfill RVM 71
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 71 \hfill Date: 2018-11-14
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
+
+Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+
+\hrulefill
+
+Vegetation: Restiogramminoid fynbos \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Pentameris spp. (Poaceae), Poaceae, Schoeneae (Cyperaceae), Ericaceae &/or Ericoids, moss-beds
+
+Habitat: Large boulders \hfill Geology: sandstone \hfill Soil: sandy loam, boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus lucidus or pseudoloreus_ \hfill RVM 72
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 72 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus lucidus or pseudoloreus_ \hfill RVM 73
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 73 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus lucidus or pseudoloreus_ \hfill RVM 74
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 74 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus lucidus_ \hfill RVM 75
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 75 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus lucidus_ \hfill RVM 76
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 76 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus lucidus_ \hfill RVM 77
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 77 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria scrag-cap. (a.k.a. Arch..._ \hfill RVM 78
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 78 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria scrag-cap. (a.k.a. Arch..._ \hfill RVM 79
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 79 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria scrag-cap. (a.k.a. Arch..._ \hfill RVM 80
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 80 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria scrag-cap. (a.k.a. Arch..._ \hfill RVM 81
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 81 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Chrysitrix complanatus_ \hfill RVM 82
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: ? \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 82 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards/by a boulder
+
+Elevation: 1049 m \hfill Aspect: ? \hfill S 33º37\'38.88\" E 19º8\'38.88\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Pentameris sp. & Erharta ramosa subsp. Ramosa (Poaceae), Ascidiosperma sp. (Restionaceae), Restionaceae, Tetraria flexuosa (Cyperaceae: Schoeneae), Schoeneae (Cyperaceae), Proteaceae, Charonia sp.
+
+Habitat: Boggy, stone exposure in bog with moss-beds \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Capeobolus sp._ \hfill RVM 83
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk, K.Beckerling**
+
+Det.: Van Mazijk \hfill Collection no.: 83 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Observation Peak. SE steep slope of Observation Peak, as approaching after passing the Bobejaan’s Waterfall
+
+Elevation: ? m \hfill Aspect: SE \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: unburnt y ago
+
+Associated spp.: Gnaphileae (Asteraceae), Charonia sp., Cliffortia sp., Restionaceae, Schoeneae (Cyperaceae)
+
+Habitat: Large granite boulders \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria cernua_ \hfill RVM 84
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 84 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards centre of amphitheatre
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Danthonoideae (Poaceae), Gnaphileae (Asteraceae)
+
+Habitat: ? \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria cernua_ \hfill RVM 85
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 85 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards centre of amphitheatre
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Danthonoideae (Poaceae), Gnaphileae (Asteraceae)
+
+Habitat: ? \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria scrag-cap. or ferruginea_ \hfill RVM 86
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk, Verboom \hfill Collection no.: 86 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards centre of amphitheatre
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: Restionaceae, Danthonoideae (Poaceae), Gnaphileae (Asteraceae)
+
+Habitat: ? \hfill Geology: ? \hfill Soil: boggy
+
+**Notes**: Old/in-nut leads to confusing ID
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus sp. (= Epischoenus sp.)_ \hfill RVM 87
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 87 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. By riverbed near pool in river S of plain/”amphitheatre” above Bobejaan's Waterfall, growing on hard rock
+
+Elevation: 1031 m \hfill Aspect: ? \hfill S 33º37\'38.4\" E 19º8\'38.4\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: TODO y ago
+
+Associated spp.: TODO
+
+Habitat: TODO \hfill Geology: TODO \hfill Soil: TODO
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Tetraria sp. nov. a Verboom (aff..._ \hfill RVM 88
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Verboom \hfill Collection no.: 88 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. By boulders $geq$ 2m tall that form a sort of “entrance” as one comes over the last hill towards the plains above Bobejaan’s Waterfall, W of Bobejaansrivier itself (i.e. E slope of valley)
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: ? \hfill Last burnt: ? y ago
+
+Associated spp.: ?
+
+Habitat: ? \hfill Geology: ? \hfill Soil: ?
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus dregeanus_ \hfill RVM 89
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 89 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 2.5 km before waterfall itself
+
+Elevation: 769 m \hfill Aspect: ? \hfill S 33º37\'43.08\" E 19º6\'43.08\"
+
+\hrulefill
+
+Vegetation: Wet fynbos, S. dregeanus dominated stand \hfill Last burnt: ? y ago
+
+Associated spp.: Schoenus dregeanus (Cyperaceae: Schoeneae)
+
+Habitat: ? \hfill Geology: ? \hfill Soil: organic
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus dregeanus_ \hfill RVM 90
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 90 \hfill Date: 2018-11-15
+
+\hrulefill
+
+Country: South Africa \hfill District: Cape Winelands
+
+Province: Western Cape \hfill \hfill Municipality: Breede Valley
+
+Locality: Bobejaanrivier. W of Bobejaan's waterfall, on S side of ravine slopes, on hiking trail, ca. 2.5 km before waterfall itself
+
+Elevation: 769 m \hfill Aspect: ? \hfill S 33º37\'43.08\" E 19º6\'43.08\"
+
+\hrulefill
+
+Vegetation: Wet fynbos, S. dregeanus dominated stand \hfill Last burnt: ? y ago
+
+Associated spp.: Schoenus dregeanus (Cyperaceae: Schoeneae)
+
+Habitat: ? \hfill Geology: ? \hfill Soil: organic
+
+**Notes**: 
+
+\break
+<!--Species & specimen no. heading-->
+# _Schoenus compar_ \hfill RVM 91
+
+\hrule
+
+<!--Taxonomy & collection details-->
+Cyperaceae: ?: Schoeneae \hfill Collector(s): **Van Mazijk**
+
+Det.: Van Mazijk \hfill Collection no.: 91 \hfill Date: 2018-11-09
+
+\hrulefill
+
+Country: South Africa \hfill District: City of Cape Town
+
+Province: Western Cape \hfill \hfill Municipality: City of Cape Town
+
+Locality: Buffelstalberg, Rooiels. S of recent burn (i.e. in burnt area), near path, on small hill E of mountain
+
+Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+
+\hrulefill
+
+Vegetation: Very bare post-burn \hfill Last burnt: very recent y ago
+
+Associated spp.: Few because post-burn
+
+Habitat: ? \hfill Geology: ? \hfill Soil: sandy
+
+**Notes**: 
+
+\break
