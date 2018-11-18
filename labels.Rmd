@@ -644,7 +644,7 @@ Province: Western Cape \hfill \hfill Municipality: Theewaterskloof
 
 Locality: Babylon's Tower. Gentle slope, NE of Babylon's Tower Cottage
 
-Elevation: ? m \hfill Aspect: SE \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: SE \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -840,7 +840,7 @@ Associated spp.: Restionaceae, Poaceae
 
 Habitat: Much less recently burnt than S-side of road \hfill Geology: ? \hfill Soil: sandy
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -871,7 +871,7 @@ Associated spp.: Restionaceae, Poaceae
 
 Habitat: Much less recently burnt than S-side of road \hfill Geology: ? \hfill Soil: sandy
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -902,7 +902,7 @@ Associated spp.: Restionaceae, Poaceae
 
 Habitat: Much less recently burnt than S-side of road \hfill Geology: ? \hfill Soil: sandy
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -933,7 +933,7 @@ Associated spp.: Leucodendron spp. (Proteaceae)
 
 Habitat: Creek nearby, large quartzitic sandstone boulders & pebbles \hfill Geology: sandstone \hfill Soil: sandy loam
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -985,7 +985,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. Near Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1016,7 +1016,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. Near Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1078,7 +1078,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. $leq$ ca. 500m along path from Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1109,7 +1109,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. $geq$ ca. 600m along path from Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1140,7 +1140,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. Between ca. 500m and $geq$ ca. 700m along path from Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1171,7 +1171,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. Between ca. 500m and $geq$ ca. 700m along path from Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1202,7 +1202,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. Path/gravel road by the N-most of the two dams near Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1233,7 +1233,7 @@ Province: Western Cape \hfill \hfill Municipality: Swellendam
 
 Locality: Killarney Trout Farm/Esperanza, Marloth NR. Between ca. 500m and $geq$ ca. 700m along path from Goedgeloof Hut
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1264,7 +1264,7 @@ Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
 Locality: Buffelstalberg, Rooiels. N of recent burn (i.e. not in burnt area), along path
 
-Elevation: ? m \hfill Aspect: S \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: S \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1295,7 +1295,7 @@ Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
 Locality: Buffelstalberg, Rooiels. N of recent burn (i.e. not in burnt area), along path
 
-Elevation: ? m \hfill Aspect: S \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: S \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1419,7 +1419,7 @@ Province: Western Cape \hfill \hfill Municipality: Overstrand
 
 Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1450,7 +1450,7 @@ Province: Western Cape \hfill \hfill Municipality: Overstrand
 
 Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1481,7 +1481,7 @@ Province: Western Cape \hfill \hfill Municipality: Overstrand
 
 Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1491,7 +1491,7 @@ Associated spp.: Poaceae, Schoeneae, Restionaceae
 
 Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -1512,7 +1512,7 @@ Province: Western Cape \hfill \hfill Municipality: Overstrand
 
 Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1522,7 +1522,7 @@ Associated spp.: Poaceae, Schoeneae, Restionaceae
 
 Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -1543,7 +1543,7 @@ Province: Western Cape \hfill \hfill Municipality: Overstrand
 
 Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1553,7 +1553,7 @@ Associated spp.: Poaceae, Schoeneae, Restionaceae
 
 Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -1574,7 +1574,7 @@ Province: Western Cape \hfill \hfill Municipality: Overstrand
 
 Locality: Mt Pustulata, Fernkloof NR, Hermanus. Peak and/or along path W of peak
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1584,7 +1584,7 @@ Associated spp.: Poaceae, Schoeneae, Restionaceae
 
 Habitat: Limestone/sandstone(?) pebbles \hfill Geology: ? \hfill Soil: ?
 
-**Notes**: 
+**Notes**: See drawing of location in collection book
 
 \break
 <!--Species & specimen no. heading-->
@@ -1615,7 +1615,7 @@ Associated spp.: ?
 
 Habitat: ? \hfill Geology: ? \hfill Soil: ?
 
-**Notes**: TODO: renumber 38+ --> 41+
+**Notes**: 
 
 \break
 <!--Species & specimen no. heading-->
@@ -1636,7 +1636,7 @@ Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
 Locality: Buffelstalberg, Rooiels. S of recent burn (i.e. in burnt area), near path, on small hill E of mountain
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -1853,7 +1853,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -1884,7 +1884,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -1915,7 +1915,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -1946,7 +1946,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -1977,7 +1977,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, really in the stream channel of a boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2008,7 +2008,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, really in the stream channel of a boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2039,7 +2039,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, really in the stream channel of a boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2070,7 +2070,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. 
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2101,7 +2101,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. 
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2132,7 +2132,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. 
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2163,7 +2163,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. 
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2194,7 +2194,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Jonaskop, Riviersonderend NR. Though hard hit by the drought, this boggy/stream area on gentle slope just W of the large red & white mast, along the road, S of the road
 
-Elevation: ? m \hfill Aspect: N \hfill S º\'?\" ? º\'?\"
+Elevation: ? m \hfill Aspect: N \hfill S ?º?\'?\" ? ?º?\'?\"
 
 \hrulefill
 
@@ -2566,7 +2566,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Observation Peak. SE steep slope of Observation Peak, as approaching after passing the Bobejaan’s Waterfall
 
-Elevation: ? m \hfill Aspect: SE \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: SE \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -2597,7 +2597,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards centre of amphitheatre
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -2628,7 +2628,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards centre of amphitheatre
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -2659,7 +2659,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Bobejaanrivier. Boggy plain on other side of and above Bobejaan's Waterfall, an “amphitheatre”, towards centre of amphitheatre
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -2721,7 +2721,7 @@ Province: Western Cape \hfill \hfill Municipality: Breede Valley
 
 Locality: Bobejaanrivier. By boulders $geq$ 2m tall that form a sort of “entrance” as one comes over the last hill towards the plains above Bobejaan’s Waterfall, W of Bobejaansrivier itself (i.e. E slope of valley)
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
@@ -2814,7 +2814,7 @@ Province: Western Cape \hfill \hfill Municipality: City of Cape Town
 
 Locality: Buffelstalberg, Rooiels. S of recent burn (i.e. in burnt area), near path, on small hill E of mountain
 
-Elevation: ? m \hfill Aspect: ? \hfill S º\'?\" E º\'?\"
+Elevation: ? m \hfill Aspect: ? \hfill S ?º?\'?\" E ?º?\'?\"
 
 \hrulefill
 
