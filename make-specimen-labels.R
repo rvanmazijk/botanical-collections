@@ -69,7 +69,7 @@ format_georef <- function(x) {
     ) %>%
     # Trim decimal points on seconds for display purposes
     mutate(
-      lat_seconds = format(lon_seconds, digits = 5),
+      lat_seconds = format(lat_seconds, digits = 5),
       lon_seconds = format(lon_seconds, digits = 5)
     )
 }
