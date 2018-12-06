@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="eTrex 10" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2018-08-18T09:04:05Z</time>
+  </metadata>
+  <wpt lat="-34.199070" lon="19.153990">
+    <ele>360.904694</ele>
+    <time>2018-08-18T09:04:05Z</time>
+    <name>HOUBRO1</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.199060" lon="19.154098">
+    <ele>362.764374</ele>
+    <time>2018-08-18T09:09:24Z</time>
+    <name>HOUBRO2</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.198796" lon="19.154260">
+    <ele>364.256409</ele>
+    <time>2018-08-18T09:27:53Z</time>
+    <name>HOUUST1</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.198786" lon="19.154222">
+    <ele>367.311218</ele>
+    <time>2018-08-18T09:31:17Z</time>
+    <name>HOUUST2</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.193249" lon="19.151254">
+    <ele>379.423218</ele>
+    <time>2018-08-18T10:17:27Z</time>
+    <name>HOUUST3</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.193298" lon="19.151222">
+    <ele>373.108521</ele>
+    <time>2018-08-18T10:22:15Z</time>
+    <name>HOUUST4</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.193221" lon="19.150697">
+    <ele>364.164703</ele>
+    <time>2018-08-18T10:36:15Z</time>
+    <name>HOU-S-UNKNOWN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.198367" lon="19.153666">
+    <ele>364.784790</ele>
+    <time>2018-08-18T11:18:58Z</time>
+    <name>HOUCOM1</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.285474" lon="19.080442">
+    <ele>407.356506</ele>
+    <time>2018-08-18T13:00:50Z</time>
+    <name>018</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-34.287742" lon="19.074538">
+    <ele>427.952057</ele>
+    <time>2018-08-18T13:39:26Z</time>
+    <name>019</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

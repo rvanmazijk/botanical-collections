@@ -1,0 +1,348 @@
+Last login: Tue Sep 18 12:34:42 on ttys000
+Ruans-MacBook-Air:Downloads ruanvanmazijk$ R
+
+R version 3.5.0 (2018-04-23) -- "Joy in Playing"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> list.files()
+ [1] "box-label_RVM.gdoc"                                        
+ [2] "Cape-vs-SWA"                                               
+ [3] "chromosomes.gdraw"                                         
+ [4] "co-existence.gdraw"                                        
+ [5] "GCFRSoils-notes.gsheet"                                    
+ [6] "GCFRSoils-sheet.gsheet"                                    
+ [7] "HOU-KOG-candidate-species-guide.gdoc"                      
+ [8] "insertion-deletion.gdraw"                                  
+ [9] "MSc_comparative-morpho_notes.gsheet"                       
+[10] "MSc_comparative-morpho_schoenus-compar-pictus_detail.gdoc" 
+[11] "MSc_comparative-morpho_schoenus-compar-pictus.gdoc"        
+[12] "MSc_comparative-morpho_schoenus-cuspidatus-et-al.gdoc"     
+[13] "MSc_comparative-morpho_schoenus-nigricans-epischoenus.gdoc"
+[14] "MSc_comparative-morpho_tetraria-spp.gdoc"                  
+[15] "MSc_progress-meeting-16-apr-2018_phylogeny.gdraw"          
+[16] "MSc_schoeneae_dry-specimens_work-flow_rvm.gsheet"          
+[17] "MSc-genome-ecophys"                                        
+[18] "Pint of Science Festival 14-16 May 2018.gdoc"              
+[19] "RvanMazijk_Muasya-discussion-group-MSc-talk-slides.gslides"
+[20] "RvanMazijk_Pint-of-Science-talk-slides.gslides"            
+[21] "RvanMazijk_SAAB-AMA-SASSB_Cape-vs-SWA-slides.gslides"      
+[22] "RvanMazijk_SAAB-AMA-SASSB-talk-slides.gslides"             
+[23] "schoeneae-veld-and-flora_introduction_RVM.gdoc"            
+[24] "undergrad-literature"                                      
+[25] "Waypoints_03-SEP-18.gpx"                                   
+[26] "Waypoints_18-AUG-18.gpx"                                   
+[27] "weekly-maintenance-instructions_rvm.gdoc"                  
+> list.files()
+[1] "Cape-vs-SWA"                "Google docs emergency save"
+[3] "MSc-genome-ecophys"         "undergrad-literature"      
+[5] "Waypoints_03-SEP-18.gpx"    "Waypoints_18-AUG-18.gpx"   
+> library(plotKML)
+Error in library(plotKML) : there is no package called ‘plotKML’
+> install.packages("plotKML")
+--- Please select a CRAN mirror for use in this session ---
+
+qq^[
+
+also installing the dependencies ‘checkmate’, ‘htmlwidgets’, ‘Formula’, ‘acepack’, ‘htmlTable’, ‘xts’, ‘intervals’, ‘Hmisc’, ‘FNN’, ‘spData’, ‘e1071’, ‘spacetime’, ‘plotrix’, ‘dismo’, ‘aqp’, ‘pixmap’, ‘colorRamps’, ‘gstat’, ‘RSAGA’, ‘classInt’
+
+
+  There are binary versions available but the source versions are later:
+        binary  source needs_compilation
+xts     0.10-2  0.11-1              TRUE
+spData 0.2.9.3 0.2.9.4             FALSE
+
+Do you want to install from sources the package which needs compilation? (Yes/no/cancel) 
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/checkmate_1.8.5.tgz'
+Content type 'application/x-gzip' length 608941 bytes (594 KB)
+==================================================
+downloaded 594 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/htmlwidgets_1.2.tgz'
+Content type 'application/x-gzip' length 792122 bytes (773 KB)
+==================================================
+downloaded 773 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/Formula_1.2-3.tgz'
+Content type 'application/x-gzip' length 177499 bytes (173 KB)
+==================================================
+downloaded 173 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/acepack_1.4.1.tgz'
+Content type 'application/x-gzip' length 81401 bytes (79 KB)
+==================================================
+downloaded 79 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/htmlTable_1.12.tgz'
+Content type 'application/x-gzip' length 315098 bytes (307 KB)
+==================================================
+downloaded 307 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/intervals_0.15.1.tgz'
+Content type 'application/x-gzip' length 753953 bytes (736 KB)
+==================================================
+downloaded 736 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/Hmisc_4.1-1.tgz'
+Content type 'application/x-gzip' length 3007285 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/FNN_1.1.2.1.tgz'
+Content type 'application/x-gzip' length 133959 bytes (130 KB)
+==================================================
+downloaded 130 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/e1071_1.7-0.tgz'
+Content type 'application/x-gzip' length 891425 bytes (870 KB)
+==================================================
+downloaded 870 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/spacetime_1.2-2.tgz'
+Content type 'application/x-gzip' length 3300296 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/plotrix_3.7-3.tgz'
+Content type 'application/x-gzip' length 1054697 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/dismo_1.1-4.tgz'
+Content type 'application/x-gzip' length 2064612 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/aqp_1.16.tgz'
+Content type 'application/x-gzip' length 1238785 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/pixmap_0.4-11.tgz'
+Content type 'application/x-gzip' length 149742 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/colorRamps_2.3.tgz'
+Content type 'application/x-gzip' length 27156 bytes (26 KB)
+==================================================
+downloaded 26 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/gstat_1.1-6.tgz'
+Content type 'application/x-gzip' length 2991876 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/RSAGA_1.2.0.tgz'
+Content type 'application/x-gzip' length 1916988 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/classInt_0.2-3.tgz'
+Content type 'application/x-gzip' length 65918 bytes (64 KB)
+==================================================
+downloaded 64 KB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/plotKML_0.5-8.tgz'
+Content type 'application/x-gzip' length 3244572 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+
+The downloaded binary packages are in
+	/var/folders/m1/yz8yzvt936x183jq_ykxmxb80000gn/T//RtmpPm3C24/downloaded_packages
+installing the source packages ‘xts’, ‘spData’
+
+trying URL 'https://cloud.r-project.org/src/contrib/xts_0.11-1.tar.gz'
+Content type 'application/x-gzip' length 535201 bytes (522 KB)
+==================================================
+downloaded 522 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/spData_0.2.9.4.tar.gz'
+Content type 'application/x-gzip' length 3486597 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+* installing *source* package ‘xts’ ...
+** package ‘xts’ successfully unpacked and MD5 sums checked
+** libs
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c add_class.c -o add_class.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c any.c -o any.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c attr.c -o attr.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c binsearch.c -o binsearch.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c coredata.c -o coredata.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c diff.c -o diff.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c dimnames.c -o dimnames.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c endpoints.c -o endpoints.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c extract_col.c -o extract_col.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c init.c -o init.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c isOrdered.c -o isOrdered.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c isXts.c -o isXts.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c merge.c -o merge.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c na.c -o na.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c period_apply.c -o period_apply.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c period_arithmetic.c -o period_arithmetic.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c period_quantile.c -o period_quantile.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c rbind.c -o rbind.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c rollfun.c -o rollfun.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c runSum.c -o runSum.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c startofyear.c -o startofyear.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c subset.c -o subset.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c subset.old.c -o subset.old.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c toperiod.c -o toperiod.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c totalcols.c -o totalcols.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c tryXts.c -o tryXts.o
+clang -I"/Library/Frameworks/R.framework/Resources/include" -DNDEBUG -I../inst/include -I"/Library/Frameworks/R.framework/Versions/3.5/Resources/library/zoo/include" -I/usr/local/include   -fPIC  -Wall -g -O2  -c unique.time.c -o unique.time.o
+clang -dynamiclib -Wl,-headerpad_max_install_names -undefined dynamic_lookup -single_module -multiply_defined suppress -L/Library/Frameworks/R.framework/Resources/lib -L/usr/local/lib -o xts.so add_class.o any.o attr.o binsearch.o coredata.o diff.o dimnames.o endpoints.o extract_col.o init.o isOrdered.o isXts.o merge.o na.o period_apply.o period_arithmetic.o period_quantile.o rbind.o rollfun.o runSum.o startofyear.o subset.o subset.old.o toperiod.o totalcols.o tryXts.o unique.time.o -F/Library/Frameworks/R.framework/.. -framework R -Wl,-framework -Wl,CoreFoundation
+installing to /Library/Frameworks/R.framework/Versions/3.5/Resources/library/xts/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (xts)
+* installing *source* package ‘spData’ ...
+** package ‘spData’ successfully unpacked and MD5 sums checked
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (spData)
+
+The downloaded source packages are in
+	‘/private/var/folders/m1/yz8yzvt936x183jq_ykxmxb80000gn/T/RtmpPm3C24/downloaded_packages’
+> qq
+Error: object 'qq' not found
+> library(plotKML)
+plotKML version 0.5-8 (2017-05-12)
+URL: http://plotkml.r-forge.r-project.org/
+> (
++ )
+Error: unexpected ')' in:
+"(
+)"
+> list.files()
+[1] "Cape-vs-SWA"                "Google docs emergency save"
+[3] "MSc-genome-ecophys"         "undergrad-literature"      
+[5] "Waypoints_03-SEP-18.gpx"    "Waypoints_18-AUG-18.gpx"   
+> waypoints_AUG_18 <- readGPX("Waypoints_18-AUG-18.gpx")
+> waypoints_AUG_18
+$metadata
+NULL
+
+$bounds
+NULL
+
+$waypoints
+        lon       lat        ele                 time          name        sym
+1  19.15399 -34.19907 360.904694 2018-08-18T09:04:05Z       HOUBRO1 Flag, Blue
+2  19.15410 -34.19906 362.764374 2018-08-18T09:09:24Z       HOUBRO2 Flag, Blue
+3  19.15426 -34.19880 364.256409 2018-08-18T09:27:53Z       HOUUST1 Flag, Blue
+4  19.15422 -34.19879 367.311218 2018-08-18T09:31:17Z       HOUUST2 Flag, Blue
+5  19.15125 -34.19325 379.423218 2018-08-18T10:17:27Z       HOUUST3 Flag, Blue
+6  19.15122 -34.19330 373.108521 2018-08-18T10:22:15Z       HOUUST4 Flag, Blue
+7  19.15070 -34.19322 364.164703 2018-08-18T10:36:15Z HOU-S-UNKNOWN Flag, Blue
+8  19.15367 -34.19837 364.784790 2018-08-18T11:18:58Z       HOUCOM1 Flag, Blue
+9  19.08044 -34.28547 407.356506 2018-08-18T13:00:50Z           018 Flag, Blue
+10 19.07454 -34.28774 427.952057 2018-08-18T13:39:26Z           019 Flag, Blue
+
+$tracks
+NULL
+
+$routes
+NULL
+
+> plot(waypoints_AUG_18p$waypoints)
+Error in plot(waypoints_AUG_18p$waypoints) : 
+  object 'waypoints_AUG_18p' not found
+> plot(waypoints_AUG_18$waypoints)
+Error in plot.window(...) : need finite 'xlim' values
+> plot(waypoints_AUG_18$waypoints[, c(1, 2])
+Error: unexpected ']' in "plot(waypoints_AUG_18$waypoints[, c(1, 2]"
+> plot(waypoints_AUG_18$waypoints[, c(1, 2)]
++ )
+> cape <- readOGR("Cape-vs-SWA/data/derived-data/borders/GCFR_border")
+Error in readOGR("Cape-vs-SWA/data/derived-data/borders/GCFR_border") : 
+  could not find function "readOGR"
+> library(rgdal
++ )
+Loading required package: sp
+rgdal: version: 1.3-2, (SVN revision 755)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 2.1.3, released 2017/20/01
+ Path to GDAL shared files: /Library/Frameworks/R.framework/Versions/3.5/Resources/library/rgdal/gdal
+ GDAL binary built with GEOS: FALSE 
+ Loaded PROJ.4 runtime: Rel. 4.9.3, 15 August 2016, [PJ_VERSION: 493]
+ Path to PROJ.4 shared files: /Library/Frameworks/R.framework/Versions/3.5/Resources/library/rgdal/proj
+ Linking to sp version: 1.3-1 
+> cape <- readOGR("Cape-vs-SWA/data/derived-data/borders/GCFR_border")
+OGR data source with driver: ESRI Shapefile 
+Source: "/Users/ruanvanmazijk/Downloads/Cape-vs-SWA/data/derived-data/borders/GCFR_border", layer: "LA_CURRENT"
+with 2 features
+It has 1 fields
+> plot(cape)
+> plot(waypoints_AUG_18$waypoints[, c(1, 2)]
++ )
+> plot(cape)
+> points(waypoints_AUG_18$waypoints[, c(1, 2)], add = TRUE)
+> waypoints_AUG_18
+$metadata
+NULL
+
+$bounds
+NULL
+
+$waypoints
+        lon       lat        ele                 time          name        sym
+1  19.15399 -34.19907 360.904694 2018-08-18T09:04:05Z       HOUBRO1 Flag, Blue
+2  19.15410 -34.19906 362.764374 2018-08-18T09:09:24Z       HOUBRO2 Flag, Blue
+3  19.15426 -34.19880 364.256409 2018-08-18T09:27:53Z       HOUUST1 Flag, Blue
+4  19.15422 -34.19879 367.311218 2018-08-18T09:31:17Z       HOUUST2 Flag, Blue
+5  19.15125 -34.19325 379.423218 2018-08-18T10:17:27Z       HOUUST3 Flag, Blue
+6  19.15122 -34.19330 373.108521 2018-08-18T10:22:15Z       HOUUST4 Flag, Blue
+7  19.15070 -34.19322 364.164703 2018-08-18T10:36:15Z HOU-S-UNKNOWN Flag, Blue
+8  19.15367 -34.19837 364.784790 2018-08-18T11:18:58Z       HOUCOM1 Flag, Blue
+9  19.08044 -34.28547 407.356506 2018-08-18T13:00:50Z           018 Flag, Blue
+10 19.07454 -34.28774 427.952057 2018-08-18T13:39:26Z           019 Flag, Blue
+
+$tracks
+NULL
+
+$routes
+NULL
+
+> plot(cape, xlim = c(min(waypoints_AUG_18$waypoints$lon), max(waypoints_AUG_18$waypoints$lon)))
+> points(waypoints_AUG_18$waypoints[, c(1, 2)], add = TRUE)
+> plot(cape, xlim = c(min(waypoints_AUG_18$waypoints$lon), max(waypoints_AUG_18$waypoints$lon)), ylim = c(min(waypoints_AUG_18$waypoints$lat), max(waypoints_AUG_18$waypoints$lat)))
+> 
+> plot(cape, xlim = c(19, 19.25))
+> plot(cape, xlim = c(19, 19.5), ylim = c(-34.5, -34)
++ )
+> plot(cape, xlim = c(18, 20), ylim = c(-35, -34)
++ )
+> plot(cape, xlim = c(18, 20), ylim = c(-35, -33))
+> points(waypoints_AUG_18$waypoints[, c(1, 2)], add = TRUE)
+> 
