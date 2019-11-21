@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 
-\.DS_Store
+All_fires_16_17_gw/
+CapeNatureFires.png
