@@ -1,0 +1,31 @@
+<!--Species & specimen no. heading-->
+# _{str_trunc(x$species, 35, "right")}_ \hfill {str_replace(x$specimen_no, "_", " ")}
+
+\hrule
+
+<!--Taxonomy & collection details-->
+{concatenate_ranks(x$family, x$sub_family, x$tribe)} \hfill Collector(s): **{x$collectors}**
+
+Det.: {x$det} \hfill Collection no.: {x$collection_no} \hfill Date: {x$collection_date}
+
+\hrulefill
+
+Country: {x$country} \hfill District: {x$district}
+
+Province: {x$province} \hfill \hfill Municipality: {x$municipality}
+
+Locality: {x$locality}. {x$locality_details}
+
+Elevation: {x$elevation_m} m \hfill Aspect: {x$aspect} \hfill {x$north_south} {x$lat_degrees}º{x$lat_minutes}\'{x$lat_seconds}\" {x$east_west} {x$lon_degrees}º{x$lon_minutes}\'{x$lon_seconds}\"
+
+\hrulefill
+
+Vegetation: {x$vegetation} \hfill Last burnt: {x$time_since_last_burn_years} y ago
+
+Associated spp.: {x$associated_spp}
+
+Habitat: {x$habitat_details} \hfill Geology: {x$geology} \hfill Soil: {x$soil}
+
+**Notes**: {x$notes}
+
+\break
